@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bmorris3/photometry_linalg/master?filepath=photometry_linalg.ipynb)
 
-A simple, interactive photometric detrending with linear algebtra in Python.
+A simple, interactive photometric detrending with linear algebra in Python.
 
 ## Getting started via Binder
 
